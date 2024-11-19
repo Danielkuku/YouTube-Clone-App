@@ -1,6 +1,6 @@
 import "./Navbar.css";
 import menu_icon from "../../assets/menu.png";
-import logo from "../../assets/logo.png";
+import logo from "../../assets/logo1.jpg";
 import search from "../../assets/search.png";
 import upload_icon from "../../assets/upload.png";
 import more_icon from "../../assets/more.png";
